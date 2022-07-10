@@ -1,5 +1,7 @@
-{ //我就引流，咋地 https://t.me/douluodalu99999
+{
+  "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
   "sites": [
+}
     {
       "key": "360",
       "name": "360",
@@ -519,5 +521,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"
-}
+  
